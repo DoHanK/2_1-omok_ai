@@ -3,10 +3,14 @@
 #include <conio.h>
 #include <ctime>
 #include "Judgment.h"
+//Ä¿¹ÔÈ®ÀÎ
 
 #define limit 19
 #define BLACK -1
 #define WHITE 1
+
+
+
 struct stonetrait {
 	int user1 = 0;
 	int user2 = 0;
