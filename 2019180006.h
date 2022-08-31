@@ -4,7 +4,7 @@
 #include <ctime>
 #include "Judgment.h"
 //Ä¿¹ÔÈ®ÀÎ
-
+//dddddddafdafafdafdadfafd
 #define limit 19
 #define BLACK -1
 #define WHITE 1
